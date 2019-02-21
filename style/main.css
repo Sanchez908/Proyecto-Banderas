@@ -1,0 +1,335 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+}
+nav ul li{
+    text-align: center;
+    background-color: rgb(65, 165, 184);
+    padding: 1px 20px;
+    
+}
+section{
+  border: solid;
+  border-color: black;
+  width: 720px;
+  height: 300px;
+  margin: 24px 70px 10px 320px;
+  background-color: white;
+  padding: 5px;
+}
+section nav{
+  border: solid;
+  width: 350px;
+  height: 290px;
+  margin: auto;
+  display: inline-block; 
+  vertical-align: top;
+}
+section article{
+  border: solid;
+  width: 350px;
+  height: 290px;
+  margin: auto;
+  display: inline-block; 
+}section nav h1{
+  background-color: rgb(241, 238, 18);
+  width: 330px;
+  height: 120px;
+  margin: 6px 0px 0px 10px;
+  border-top: 0px;
+  border-right: 0px;
+  border-bottom: 0px;
+  border-left: 0px;
+}
+section nav h2{
+  background-color: rgb(31, 32, 119);
+  width: 330px;
+  height: 75px;
+  margin: 0px 0px 0px 10px;
+  border-top: 0px;
+  border-right: 0px;
+  border-bottom: 0px;
+  border-left: 0px;
+}
+section nav h3{
+  background-color: rgb(184, 22, 22);
+  width: 330px;
+  height: 50px;
+  margin: 0px 0px 0px 10px;
+  border-top: 0px;
+  border-right: 0px;
+  border-bottom: 0px;
+  border-left: 0px;
+}
+section nav ol{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  margin: 5px; 
+  font-size: 20px;
+}
+section article h4{
+  background-color: rgb(17, 124, 7);
+  width: 100px;
+  height: 245px;
+  margin: 6px 0px 0px 10px;
+  border-top: 0px;
+  border-right: 0px;
+  border-bottom: 0px;
+  border-left: 0px;
+}
+section article h5{
+  background-color: rgb(255, 255, 255);
+  width: 131px;
+  height: 245px;
+  margin: -245px 0px 0px 110px;
+  border-top: 0px;
+  border-right: 0px;
+  border-bottom: 0px;
+  border-left: 0px;
+  padding-top: 0px;
+}
+section article h6{
+  background-color: rgb(197, 15, 15);
+  width: 100px;
+  height: 245px;
+  margin: -245px 0px 0px 241px;
+  border-top: 0px;
+  border-right: 0px;
+  border-bottom: 0px;
+  border-left: 0px;
+}
+section article ul{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  margin: 5px; 
+  font-size: 20px;
+}
+section article h5 img{
+  width: 75px;
+  height: 75px;
+  margin: 86px 0px 0px 30px;
+}
+main {
+  border: solid;
+  border-color: black;
+  width: 720px;
+  height: 300px;
+  margin: 24px 70px 10px 320px;
+  background-color: white;
+  padding: 5px;
+}
+main nav{
+  border: solid;
+  width: 350px;
+  height: 290px;
+  margin: auto;
+  display: inline-block; 
+  vertical-align: top;
+}
+main article{
+  border: solid;
+  width: 350px;
+  height: 290px;
+  margin: auto;
+  display: inline-block; 
+}
+ main nav footer{
+  background-color: rgb(15, 197, 193);
+  width: 331px;
+  height: 80px;
+  margin: 7px 0px 0px 10px;
+  border-top: 0px;
+  border-right: 0px;
+  border-bottom: 0px;
+  border-left: 0px;
+}
+main nav aside{
+  background-color: rgb(255, 255, 255);
+  width: 331px;
+  height: 80px;
+  margin: 0px 0px 0px 10px;
+  border-top: 0px;
+  border-right: 0px;
+  border-bottom: 0px;
+  border-left: 0px;
+}
+main nav header{
+  background-color: rgb(15, 197, 193);
+  width: 331px;
+  height: 80px;
+  margin: 0px 0px 0px 10px;
+  border-top: 0px;
+  border-right: 0px;
+  border-bottom: 0px;
+  border-left: 0px;
+}
+main nav dl{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  margin: 5px; 
+  font-size: 20px;
+}
+main nav aside img{
+  width: 75px;
+  height: 75px;
+  margin: 3px 0px 0px 124px;
+}
+main article address{
+  background-color: rgb(197, 15, 15);
+  width: 331px;
+  height: 70px;
+  margin: 7px 0px 0px 10px;
+  border-top: 0px;
+  border-right: 0px;
+  border-bottom: 0px;
+  border-left: 0px;
+}
+main article div{
+  background-color: rgb(235, 194, 13);
+  width: 331px;
+  height: 100px;
+  margin: 0px 0px 0px 10px;
+  border-top: 0px;
+  border-right: 0px;
+  border-bottom: 0px;
+  border-left: 0px;
+}
+main article dd{
+  background-color: rgb(197, 15, 15);
+  width: 331px;
+  height: 70px;
+  margin: 0px 0px 0px 10px;
+  border-top: 0px;
+  border-right: 0px;
+  border-bottom: 0px;
+  border-left: 0px;
+}
+main article ul{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  margin: 5px; 
+  font-size: 20px;
+}
+main article div img{
+  width: 75px;
+  height: 75px;
+  margin: 3px 0px 0px 75px;
+}
+dt{
+  border: solid;
+  border-color: black;
+  width: 720px;
+  height: 300px;
+  margin: 24px 70px 10px 320px;
+  background-color: white;
+  padding: 5px;
+}
+dt nav{
+  border: solid;
+  border-color: black;
+  width: 340px;
+  height: 284px;
+  margin: 0px 70px 10px 0px;
+  background-color: white;
+  padding: 5px;
+}
+dt article{
+  border: solid;
+  border-color: black;
+  width: 340px;
+  height: 284px;
+  margin: -310px 70px 10px 361px;
+  background-color: white;
+  padding: 5px;
+}
+dt nav address{
+  background-color: rgb(0, 53, 168);
+  width: 331px;
+  height: 40px;
+  margin: 1px 0px 40px 5px;
+  border-top: 0px;
+  border-right: 0px;
+  border-bottom: 0px;
+  border-left: 0px;
+}
+dt nav div{
+  background-color: rgb(178, 7, 7);
+  width: 331px;
+  height: 83px;
+  margin: 13px 0px 0px 5px;
+  border-top: 0px;
+  border-right: 0px;
+  border-bottom: 0px;
+  border-left: 0px;
+} 
+dt nav dd{
+  background-color: rgb(0, 53, 168);
+  width: 331px;
+  height: 40px;
+  margin: 40px 0px 0px 5px;
+  border-top: 0px;
+  border-right: 0px;
+  border-bottom: 0px;
+  border-left: 0px;
+}
+dt nav ul{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  margin: 5px; 
+  font-size: 20px;
+}
+dt nav div img{
+  width: 75px;
+  height: 75px;
+  margin: 3px 0px 0px 65px;
+}
+dt article footer{
+  background-color: rgb(197, 15, 15);
+  width: 331px;
+  height: 80px;
+  margin: 0px 0px 0px 5px;
+  border-top: 0px;
+  border-right: 0px;
+  border-bottom: 0px;
+  border-left: 0px;
+}
+dt article aside{
+  background-color: rgb(255, 255, 255);
+  width: 331px;
+  height: 80px;
+  margin: 0px 0px 0px 5px;
+  border-top: 0px;
+  border-right: 0px;
+  border-bottom: 0px;
+  border-left: 0px;
+}
+dt article dl{
+  background-color: rgb(0, 0, 0);
+  width: 331px;
+  height: 80px;
+  margin: 0px 0px 0px 5px;
+  border-top: 0px;
+  border-right: 0px;
+  border-bottom: 0px;
+  border-left: 0px;
+}
+dt article header{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  margin: 5px; 
+  font-size: 20px;
+}
+dt article aside img{
+  width: 75px;
+  height: 75px;
+  margin: 3px 0px 0px 128px;
+}
