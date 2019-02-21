@@ -101,13 +101,76 @@ padding: 5px;
     margin: 5px; 
     font-size: 20px;
 }
-.daniel article div .canada h4{
-        background-color: rgb(49, 59, 187);
-        width: 50px;
-        height: 90px;
-        margin: 0 0 0 70;
-        display: inline-block;
-        vertical-align: top;
 
+
+.daniel article div .canada strong{
+    background-color: rgb(226, 226, 226);
+    width: 200px;
+    height: 240px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 5 -8 0 -8px;
 }
-
+.daniel article div .canada table{
+    background-color: rgb(245, 12, 12);
+    width: 68px;
+    height: 240px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 5 5 0 5px;
+}
+.daniel article div .canada strong img{
+    width: 170px;
+    height: 190px;
+    margin: 25px 5 0 13px
+}
+.daniel article div .japon  {
+    background-color: rgb(243, 240, 240);
+    width: 297px;
+    height: 176px;
+    margin: 5px 0px 0px 5px;
+    padding: 65px 0 0 43px;
+     }
+     .daniel article div .japon main{
+        background-color: rgb(167, 11, 11);
+        width: 110px;
+        height: 110px;
+        margin: 0 0 0 70;
+        border-radius: 55px;
+    }
+    .daniel article div .corea h1{
+    background-color: rgb(255, 0, 0);
+    width: 340px;
+    height: 40px;
+    margin: 5px;
+   
+    }
+    .daniel article div .corea nav{
+    background-color: rgb(21, 94, 252);
+    width: 312px;
+    height: 134px;
+    margin: 5px;
+    padding: 12px 0 0 28px
+       
+     }
+    .daniel article div .corea nav section{
+           
+    background-color: rgb(227, 229, 233);
+    width: 110px;
+    height: 110px;
+    margin: 3px 0 0 0px;
+    border-radius: 55px;
+           
+     }
+     .daniel article div .corea nav section img{
+        height: 100px;
+        width: 107px;
+     }
+        
+    .daniel article div .corea h3{
+     background-color: rgb(255, 0, 0);
+     width: 340px;
+    height: 40px;
+    margin: 5px;
+           
+    }
