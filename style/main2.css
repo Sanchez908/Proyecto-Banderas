@@ -12,205 +12,102 @@ nav ul li{
     padding: 1px 20px;
     
 }
-.daniel{
-    margin: auto;
-    height: 700px;
-    width: 600px;
-}
+
 .daniel article{
 height: 300px;
 width: 720px;
 background-color: rgb(255, 255, 255);
-padding: 5px;
 border: solid;
 border-color: black;
-margin: 5;
-
+margin: 24px 70px 10px 320px;
+padding: 5px;
 }
 .daniel article div{
-height: 270px;
-width: 330px;
-background-color: rgb(255, 255, 255);
-border: solid;
-border-color: rgb(0, 0, 0);
-display: inline-block;
-padding: 10px;
-vertical-align: top;
-
- 
-}
-.daniel article .segundo main {
-    height: 200px;
-    width: 300px;
-    background-color: blue;
-    margin:auto;
-}
-.daniel article .segundo section  {
-    height: 100px;
-    width: 100px;
-    background-color: rgb(255, 8, 0);
-border-radius: 50PX;
-margin: 20 10 10 30px;
-}
-.daniel article .segundo>h2{
-text-align: center;
-margin: 10px;
-
-}
-.daniel article div h3{
-    height: 40px;
-    width:300px;
-    background-color: blue;
-    margin: 10px;
-}
-.daniel article div h4{
-    height: 0px;
-    width:300px;
-    background-color: rgb(255, 255, 255);
-    margin: 10px;
- }
-.daniel article div main{
-    height: 70px;
-    width:300px;
-    background-color: rgb(255, 0, 0);
-    margin: 10px;
-}
-.daniel article div main section{
-    height: 50px;
-    width: 50px;
-    background-color: rgb(254, 254, 255);
-    margin: 10 0 0 20px;
-    border-radius: 50px;
-}
-.daniel article div main section img{
-    height: 50px;
-    width:50px;
-}
-.daniel article div h5{
-    height: 0px;
-    width:300px;
-    background-color: rgb(255, 255, 255);
-    margin: 10px;
-}
-.daniel article div h6{
-    height: 40px;
-    width:300px;
-    background-color: blue;
-    margin: 10px;
-}
-
-.daniel article div section{
-    height: 60px;
-    width: 330px;
-    background-color: rgb(250, 0, 0);
-    display: inline-block;
-}
-.daniel article div ul{
-    height: 60px;
-    width: 330px;
-    background-color: rgb(252, 249, 249);
-    display: inline-block;
-}
-.daniel article div ul img{
-    height: 60px;
-    width:  60px;
-    margin: 0px 10px 0px 140px;
-  
-}
-.daniel article div ol{
-    height: 60px;
-    width: 330px;
-    background-color:black;
-    display: inline-block;
-
-}.daniel article div .cuarto{
-    height: 200px;
-    width: 300px;
-    background-color: aqua;
-   
-}
-.daniel article div .cuarto h1{
-    height: 50px;
-    width: 50px;
-    background-color: blue;
-    margin: 70 0 0 0px;
+    border: solid;
+    width: 350px;
+    height: 290px;
+    margin: auto;
+    display: inline-block; 
     vertical-align: top;
-    display: inline-block;
-
-}
-
-
-.daniel article div .cuarto main{
-    height: 200px;
-    width: 50px;
-    background-color: blue;
-    margin: 0 0 0 -5px;
-    vertical-align: top;
-    display: inline-block;
-
-}
-.daniel article div .cuarto h2{
-    height: 50px;
-    width:200px;
-    background-color: blue;
-    margin: 70 0 0 -5px;
-    vertical-align: top;
-    display: inline-block;
-
-}
-.daniel article div>h2{
-    text-align: center;
-    margin: 10px;
     
-
-    }
-.daniel article div>footer{
-    height: 100px;
-    width: 150px;
-    background-color: rgb(199, 224, 247);
-    vertical-align: top;
-    display: inline-block;
 }
-.daniel article div footer img{
-height: 50px;
-width: 50px;
-margin: 20 0 0 50px;
+.daniel article div>section{
+    background-color: rgb(240, 234, 234);
+    width: 340px;
+    height: 80px;
+    margin: 5px 0px 0px 5px;
+    border-top: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+    border-left: 0px;
 }
-.daniel article div>nav{
-    height: 100px;
-    width: 150px;
-    background-color: rgb(44, 153, 255);
-    vertical-align: top;
-    display: inline-block;
-    margin: 0 0 0 -3px;
-
+.daniel article div>ul{
+    background-color: rgb(26, 11, 167);
+    width: 340px;
+    height: 80px;
+    margin: 0px 0px 0px 5px;
+    border-top: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+    border-left: 0px;
 }
-.daniel article div>small{
-    height: 100px;
-    width: 150px;
-    background-color: rgb(24, 143, 255);
-    vertical-align: top;
-    display: inline-block;
+.daniel article div>ol{
+    background-color: rgb(167, 11, 11);
+    width: 340px;
+    height: 80px;
+    margin: 0px 0px 0px 5px;
+    border-top: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+    border-left: 0px;
 }
-.daniel article div .ultimo{
-    height: 100px;
-    width: 150px;
-    background-color: rgb(199, 224, 247);
-    vertical-align: top;
-    display: inline-block;
-    margin: 0 0 0 -3px;
+.daniel article div h2{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    margin: 5px; 
+    font-size: 20px;
 }
-.daniel article div .ultimo img{
-    height: 50px;
+.daniel .finlandia main{
+    background-color: rgb(243, 240, 240);
+    width: 340px;
+    height: 238px;
+    margin: 5px 0px 0px 5px;
+    
+}
+.daniel .finlandia main h6{
+    background-color: rgb(49, 59, 187);
     width: 50px;
-    margin: 20 0 0 50px;
-    }
-h2
-{
-text-align: center;
-margin: 10px;
+    height: 100px;
+    margin: 0 0 0 70;
+
 }
-h1 {
-text-align: center;
-margin: 10px;
+
+.daniel .finlandia main h5{
+    background-color: rgb(49, 59, 187);
+    width: 340px;
+    height: 50px;
 }
+.daniel .finlandia main h3{
+    background-color: rgb(49, 59, 187);
+    width: 50px;
+    height: 90px;
+    margin: 0 0 0 70;
+}
+.daniel .finlandia main h2{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    margin: 5px; 
+    font-size: 20px;
+}
+.daniel article div .canada h4{
+        background-color: rgb(49, 59, 187);
+        width: 50px;
+        height: 90px;
+        margin: 0 0 0 70;
+        display: inline-block;
+        vertical-align: top;
+
+}
+
